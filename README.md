@@ -1,6 +1,6 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: 
+### LINK: https://roaring-liger-f18474.netlify.app/
 
 <hr />
 
